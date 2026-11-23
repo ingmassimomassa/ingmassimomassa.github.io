@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ingmassimomassa.github.io/sitemap.xml
